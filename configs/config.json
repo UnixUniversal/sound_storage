@@ -2,5 +2,6 @@
 	"versions": {
 		"soundloader": "0.1.4b",
 		"installer": "0.1.5b"
-	}
+	},
+	"uselessindex": "uselessvalue"
 }
