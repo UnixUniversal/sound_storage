@@ -1,6 +1,7 @@
 {
 	"versions": {
 		"soundloader": "0.1.4c",
-		"installer": "0.1.5d"
+		"installer": "0.1.5d",
+		"something": "thatshouldtriggerversionchange"
 	}
 }
